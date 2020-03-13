@@ -8,6 +8,6 @@ make sure to use the right button color (circle(A) = red, cross(B) = blue, squar
 all the other color variant may be added in a future update<br>
 working with latest canary version<br>
 <br>
-if you have some issue installing it, contact me via the Issues page or via discord (if you are in the diva modding server)
+if you have some issue installing it, contact me via the Issues page or via discord (if you are in the diva modding server)<br>
 <br>
 work in progress nothing is final
