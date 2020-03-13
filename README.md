@@ -7,4 +7,7 @@ From there, enable Luma's game patching by holding select on boot, then press st
 make sure to use the right button color (circle(A) = red, cross(B) = blue, square(Y) = purple, triangle(X) = green),<br>
 all the other color variant may be added in a future update<br>
 working with latest canary version<br>
+<br>
+if you have some issue installing it, contact me via the Issues page or via discord (if you are in the diva modding server)
+<br>
 work in progress nothing is final
